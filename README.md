@@ -1,8 +1,13 @@
-# EVIDENCIA1.CJAVA1.AL03011890
+# READ ME
+
 Instalación y configuración
+
 Uso del programa
+
 Créditos
+
 Licencia
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
